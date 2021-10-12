@@ -2,6 +2,14 @@
 #include <iostream>
 #include <getopt.h>
 
+class CashRegister{
+public:
+};
+
+void registershell(){
+
+}
+
 int main(int argc, char *argv[]){
 int opr;
 int option_index = 0;
